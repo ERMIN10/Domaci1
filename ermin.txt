@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+<title>Prvi domaci</title>
+<br/>
+<h3> Podaci korisnika</h3>
+<table>
+    <tr><td>
+ <input type="radio" name="rr" value="Janko" />Janko Jankovic
+  </td></tr>
+  <tr><td> 
+  <input type="radio" name="rr" value="Ivan" />Ivan Ivanovic 
+</tr></td>
+<input type="radio" name="rr" value="Jovan" />Jovan Jovanovic
+</tr></td>
+<tr><td>
+        <tr><td>
+    <input type="submit" value="PRIKAZI"/>
+    </tr></td>
+</td></tr>
+</table>
+</head>
+</html>
